@@ -54,3 +54,5 @@ Người dùng có thể chọn một ảnh từ dữ liệu và sử dụng mô
 1. Clone repository:
    ```bash
    git clone https://github.com/ten-cua-ban/rice-leaf-disease-cnn.git
+   2 Video https://drive.google.com/drive/folders/1XTyzd3REwQbqWrYsFVZufXUiKs6UIXrc?usp=drive_link
+
