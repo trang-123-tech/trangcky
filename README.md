@@ -46,13 +46,11 @@ Mô hình được xây dựng bằng TensorFlow/Keras gồm:
 - Confusion Matrix thể hiện khả năng phân loại 5 lớp
 
 ##  Dự đoán ảnh thực tế
-
 Người dùng có thể chọn một ảnh từ dữ liệu và sử dụng mô hình để dự đoán lớp bệnh, sau đó hiển thị ảnh và nhãn kết quả.
 
-##  Hướng dẫn sử dụng
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/ten-cua-ban/rice-leaf-disease-cnn.git
-   2 Video https://drive.google.com/drive/folders/1XTyzd3REwQbqWrYsFVZufXUiKs6UIXrc?usp=drive_link
+
+   
+    
+                                Video https://drive.google.com/drive/folders/1XTyzd3REwQbqWrYsFVZufXUiKs6UIXrc?usp=drive_link
 
